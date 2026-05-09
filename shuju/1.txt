@@ -1,2 +1,2 @@
-资源1,https://a.com
-资源2,https://b.com
+非凡资源,http://api.ffzyapi.com/api.php/provide/vod/at/xml/
+量子资源,https://cj.lziapi.com/api.php/provide/vod/at/xml/
